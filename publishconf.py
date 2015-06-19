@@ -10,9 +10,9 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://dl.dropboxusercontent.com/u/15551906/tmft/'
+SITEURL = 'http://sopoforic.github.io/too-much-free-time'
 
-OUTPUT_PATH = "C:\\Users\\Tracy\\Dropbox\\Public\\tmft"
+OUTPUT_PATH = 'output'
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
