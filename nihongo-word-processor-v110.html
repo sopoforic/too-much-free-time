@@ -8,12 +8,12 @@
 		<meta name="description" content="">
 		<meta name="author" content="Tracy Poff">
 
-		<link rel="stylesheet" href="../theme/css/foundation.css" />
-		<link rel="stylesheet" href="../theme/css/pygment/monokai.css" />
-		<link rel="stylesheet" href="../theme/css/custom.css" />
+		<link rel="stylesheet" href="./theme/css/foundation.css" />
+		<link rel="stylesheet" href="./theme/css/pygment/monokai.css" />
+		<link rel="stylesheet" href="./theme/css/custom.css" />
 
 
-		<script src="../theme/js/modernizr.js"></script>
+		<script src="./theme/js/modernizr.js"></script>
 
 		<!-- Feeds -->
 		<link href="http://sopoforic.github.io/too-much-free-time/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Too Much Free Time Atom Feed" />
@@ -52,12 +52,12 @@
 				<!-- mobile side bar nav -->
 				<aside class="left-off-canvas-menu">
 					<ul class="off-canvas-list">
-						<li><a href="..">Home</a></li>
+						<li><a href=".">Home</a></li>
 						<li><label>Categories</label></li>
-							<li ><a href="../category/application.html">Application</a></li>
-							<li ><a href="../category/commentary.html">Commentary</a></li>
-							<li ><a href="../category/game-review.html">Game Review</a></li>
-							<li ><a href="../category/game-reviews.html">Game Reviews</a></li>
+							<li class="active"><a href="./category/application.html">Application</a></li>
+							<li ><a href="./category/commentary.html">Commentary</a></li>
+							<li ><a href="./category/game-review.html">Game Review</a></li>
+							<li ><a href="./category/game-reviews.html">Game Reviews</a></li>
 
 						<li><label>Places</label></li>
 							<li><a href="http://tmft.wordpress.com/">Live Site (Wordpress)</a></li>
@@ -73,16 +73,16 @@
 				<nav class="top-bar hide-for-small-only" data-topbar>
 					<ul class="title-area">
 						<li class="name">
-							<h1><a href="../">Too Much Free Time</a></h1>
+							<h1><a href="./">Too Much Free Time</a></h1>
 						</li>
 					</ul>
 
 					<section class="top-bar-section">
 						<ul class="left">
-								<li ><a href="../category/application.html">Application</a></li>
-								<li ><a href="../category/commentary.html">Commentary</a></li>
-								<li ><a href="../category/game-review.html">Game Review</a></li>
-								<li ><a href="../category/game-reviews.html">Game Reviews</a></li>
+								<li class="active"><a href="./category/application.html">Application</a></li>
+								<li ><a href="./category/commentary.html">Commentary</a></li>
+								<li ><a href="./category/game-review.html">Game Review</a></li>
+								<li ><a href="./category/game-reviews.html">Game Reviews</a></li>
 						</ul>
 					</section>
 				</nav>
@@ -92,21 +92,17 @@
 					<div class="row">
 						<!-- Main Content -->
 						<div class="medium-9 small-12 columns" role="content">
-							<div class="row">
-								<div class="small-12 columns">
-									<h2>Posts Tagged With 'Zachtronics Industries'</h2>
-								</div>
-							</div>
-
 <article>
-	<h3><a href="../tis-100.html">TIS-100</a></h3>
-	<h6>Written by <a href="../author/tracy-poff.html">Tracy Poff</a> in <a href="../category/game-reviews.html">Game Reviews</a> on Fri 19 June 2015. Tags: <a href="../tag/programming-game.html">programming game</a>, <a href="../tag/zachtronics-industries.html">Zachtronics Industries</a>, <a href="../tag/puzzle.html">puzzle</a>, <a href="../tag/good.html">good</a>, <a href="../tag/windows.html">Windows</a>, <a href="../tag/2015.html">2015</a>, </h6>
-	<p><img alt="TIS-100 opening screen" src="../images/370360_2015-06-17_00004.png" /></p>
-<p>Recently, I saw a new game from <a href="http://www.zachtronics.com/">Zachtronics Industries</a>, <em>TIS-100</em>, which was released <a href="http://store.steampowered.com/app/370360/">on Steam</a> as an early access title on the first of June. In some ways, calling it a game is overstating it: it's little more than a collection of programming problems, with a little story to ...</p>
-		<p class="continue"><a href="../tis-100.html">Continue reading &raquo;</a></p>
+	<h2>Nihongo Word Processor v1.10</h2>
+	<p>The second X68k word processor I'll look at is the "SHARP X68000 日本語ワードプロセッサ Ver 1.10", produced circa 1990 by Sharp itself. It is credited with programming by H. Nakamoto and management by H. Tanaka.</p>
+<p><img alt="Nihongo Word Processor v1.10" src="./images/nihongo-word-processor-v1-10.png" /></p>
+<p>For being only about two years newer, Sharp's Nihongo Word Processor (henceforth, NWP) looks <em>much</em> nicer than <a href="http://tmft.wordpress.com/2014/09/19/ew/">EW</a>. Its interface reminds me very much of classic Macintosh programs. Coincidentally, the Mac also used a Motorola 68000 CPU, though somehow I doubt it influenced interface design.</p>
+<p>Besides being pretty, NWP is a perfectly serviceable word processor, with the standard features, plus one very neat divergence from the norm: on the right side of the screen is a pinboard with two notes attached to it. These represent the dual clipboard arrangement NWP uses. The left clipboard holds text which has been cut, and the right text which has been copied. There are separate paste commands for each.</p>
+<p>It's a minor thing, perhaps, but it's exactly the kind of uniqueness that makes me interested in software from this era. At this time, the clipboard functionality was provided by each program individually, rather than by the operating system (and its associated standard libraries), so the implementation is a conscious choice by the developer.</p>
+<p>As you look further back in software history, you can see different interface paradigms contending against one another for mindshare, each representing a different developer's idea about how the interface ought to be. Single clipboard with no history won this particular battle, though there are outliers like emacs's kill ring or the various 'clipboard managers' that provide something extra for the power user.</p>
+<p><a href="http://homepage1.nifty.com/dreamwave/x680x0/database/soft/word.htm">It looks like</a> NWP shipped with certain models of the X68k. A positive bargain!</p>
+	<h6>Written by <a href="./author/tracy-poff.html">Tracy Poff</a> on Sat 20 September 2014.</h6>
 </article>
-<hr />
-
 
 						</div>
 						<!-- End Main Content -->
@@ -190,8 +186,8 @@
 			</div><!--off-canvas inner-->
 		</div><!--off-canvas wrap-->
 
-		<script src="../theme/js/jquery.js"></script>
-		<script src="../theme/js/foundation.min.js"></script>
+		<script src="./theme/js/jquery.js"></script>
+		<script src="./theme/js/foundation.min.js"></script>
 		<script>
 			$(document).foundation();
 		</script>

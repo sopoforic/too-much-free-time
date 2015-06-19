@@ -8,12 +8,12 @@
 		<meta name="description" content="">
 		<meta name="author" content="Tracy Poff">
 
-		<link rel="stylesheet" href="../theme/css/foundation.css" />
-		<link rel="stylesheet" href="../theme/css/pygment/monokai.css" />
-		<link rel="stylesheet" href="../theme/css/custom.css" />
+		<link rel="stylesheet" href="./theme/css/foundation.css" />
+		<link rel="stylesheet" href="./theme/css/pygment/monokai.css" />
+		<link rel="stylesheet" href="./theme/css/custom.css" />
 
 
-		<script src="../theme/js/modernizr.js"></script>
+		<script src="./theme/js/modernizr.js"></script>
 
 		<!-- Feeds -->
 		<link href="http://sopoforic.github.io/too-much-free-time/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Too Much Free Time Atom Feed" />
@@ -52,12 +52,12 @@
 				<!-- mobile side bar nav -->
 				<aside class="left-off-canvas-menu">
 					<ul class="off-canvas-list">
-						<li><a href="..">Home</a></li>
+						<li><a href=".">Home</a></li>
 						<li><label>Categories</label></li>
-							<li ><a href="../category/application.html">Application</a></li>
-							<li ><a href="../category/commentary.html">Commentary</a></li>
-							<li ><a href="../category/game-review.html">Game Review</a></li>
-							<li ><a href="../category/game-reviews.html">Game Reviews</a></li>
+							<li ><a href="./category/application.html">Application</a></li>
+							<li ><a href="./category/commentary.html">Commentary</a></li>
+							<li class="active"><a href="./category/game-review.html">Game Review</a></li>
+							<li ><a href="./category/game-reviews.html">Game Reviews</a></li>
 
 						<li><label>Places</label></li>
 							<li><a href="http://tmft.wordpress.com/">Live Site (Wordpress)</a></li>
@@ -73,16 +73,16 @@
 				<nav class="top-bar hide-for-small-only" data-topbar>
 					<ul class="title-area">
 						<li class="name">
-							<h1><a href="../">Too Much Free Time</a></h1>
+							<h1><a href="./">Too Much Free Time</a></h1>
 						</li>
 					</ul>
 
 					<section class="top-bar-section">
 						<ul class="left">
-								<li ><a href="../category/application.html">Application</a></li>
-								<li ><a href="../category/commentary.html">Commentary</a></li>
-								<li ><a href="../category/game-review.html">Game Review</a></li>
-								<li ><a href="../category/game-reviews.html">Game Reviews</a></li>
+								<li ><a href="./category/application.html">Application</a></li>
+								<li ><a href="./category/commentary.html">Commentary</a></li>
+								<li class="active"><a href="./category/game-review.html">Game Review</a></li>
+								<li ><a href="./category/game-reviews.html">Game Reviews</a></li>
 						</ul>
 					</section>
 				</nav>
@@ -92,21 +92,20 @@
 					<div class="row">
 						<!-- Main Content -->
 						<div class="medium-9 small-12 columns" role="content">
-							<div class="row">
-								<div class="small-12 columns">
-									<h2>Posts Tagged With 'Zachtronics Industries'</h2>
-								</div>
-							</div>
-
 <article>
-	<h3><a href="../tis-100.html">TIS-100</a></h3>
-	<h6>Written by <a href="../author/tracy-poff.html">Tracy Poff</a> in <a href="../category/game-reviews.html">Game Reviews</a> on Fri 19 June 2015. Tags: <a href="../tag/programming-game.html">programming game</a>, <a href="../tag/zachtronics-industries.html">Zachtronics Industries</a>, <a href="../tag/puzzle.html">puzzle</a>, <a href="../tag/good.html">good</a>, <a href="../tag/windows.html">Windows</a>, <a href="../tag/2015.html">2015</a>, </h6>
-	<p><img alt="TIS-100 opening screen" src="../images/370360_2015-06-17_00004.png" /></p>
-<p>Recently, I saw a new game from <a href="http://www.zachtronics.com/">Zachtronics Industries</a>, <em>TIS-100</em>, which was released <a href="http://store.steampowered.com/app/370360/">on Steam</a> as an early access title on the first of June. In some ways, calling it a game is overstating it: it's little more than a collection of programming problems, with a little story to ...</p>
-		<p class="continue"><a href="../tis-100.html">Continue reading &raquo;</a></p>
+	<h2>IFComp 2014: One Night Stand</h2>
+	<p>The third game I've played from the 2014 ifcomp is <em>One Night Stand</em> by Giannis G. Georgiou. You play Sandy, a woman who is trying to discover the name of the man she just spent the night with.</p>
+<p>One pre-spoiler note: the download from the comp website just has an HTML file with a link to a web-based version of the game, but the story file <em>can</em> be downloaded, if you follow that link. You'll need a Quest interpreter to play it.</p>
+<p><em>(This post contains spoilers. Read at your own risk.)</em></p>
+<p>First, a note about online play: the online interpreter was rather slow to react, occasionally taking many seconds to complete a command, and usually missing the first few characters of each command I typed, since it was still scrolling the response text. This was irritating, but it otherwise worked fine, and it was at least visually attractive. Not ideal, but better than nothing, given that I don't actually have a Quest interpreter.</p>
+<p><em>ONS</em> is a short comedy game with one puzzle sequence. I spent about 35 minutes prodding everything in the game before I finished, but I imagine 10 minutes would more than suffice, if you just proceed toward the goal--and particularly if you aren't using the rather slow web-based interpreter.</p>
+<p>I appreciate the customized responses to trying to take various objects, and the randomly chosen sections of text (e.g. when knocking on Mara's door) are a nice touch. The ending, though not <em>entirely</em> unexpected, is a good enough payoff for the few minutes the game takes to complete.</p>
+<p>On the other hand, you don't have any real options--either you proceed linearly through the story, or you don't proceed at all. I wanted to try tricking the dude into saying his name. To break down in tears to avoid the situation. To call him Rumpelstiltskin, if his name is so important. Anything to have some choice--but I had none. More mundanely, there are few objects implemented, and no real, interactive NPCs. The parser is a little obtuse, too: you've got to <strong>knock door</strong> or <strong>use bottle on floor</strong>, which aren't exactly the first commands that came to mind.</p>
+<p>Overall, an average-quality game, which would probably be more at home in the first ifcomp than the twentieth.</p>
+<p><em>Post-review pre-posting note</em>: Okay, I think this review needs an addendum. Other reviewers seem to be unanimous in despising this game. It was my assumption throughout the game that it was a work of parody--the several-inches deep layer of grease on the kitchen floor not a greater exaggeration than the PC's absurd internal monologue. <em>Surely</em> the game is so stupid exactly because it's undermining its nominal position. Of course, while writing the review, I was under the impression that the author was a woman (Wrong! Giannis is a Greek name which is the masculine form Gianna. The more you know.), and that therefore the PC <em>must</em> be a parody of the ridiculous caricatures of women we see in games and other media (maybe not?).</p>
+<p>It's against my policy to change my judgment after reading other reviews, so I'll let this review stand as-is. I'd rather be too generous in my assumptions about other people than too harsh. In retrospect, though, if you take seriously the bits that I assumed to be failed comedy, then the game really <em>does</em> become rather unpalatable... so take this review with a grain of salt.</p>
+	<h6>Written by <a href="./author/tracy-poff.html">Tracy Poff</a> on Sun 19 October 2014.</h6>
 </article>
-<hr />
-
 
 						</div>
 						<!-- End Main Content -->
@@ -190,8 +189,8 @@
 			</div><!--off-canvas inner-->
 		</div><!--off-canvas wrap-->
 
-		<script src="../theme/js/jquery.js"></script>
-		<script src="../theme/js/foundation.min.js"></script>
+		<script src="./theme/js/jquery.js"></script>
+		<script src="./theme/js/foundation.min.js"></script>
 		<script>
 			$(document).foundation();
 		</script>
