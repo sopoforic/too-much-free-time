@@ -1,7 +1,6 @@
 Title: First Impressions: Text Editor
 Date: 2006-09-24 13:48
 Modified: 2015-06-20 11:58:27
-Category: First Impressions
 Tags: unplayable, nes, 1996, A. Chudov
 Slug: text-editor-chudov
 Authors: Tracy Poff
@@ -10,9 +9,9 @@ Original title: ""РЕДАКТОР ТЕКСТОВ"". In Latin characters: "REDAK
 
 Broken, probably. I'm not sure what it's supposed to do, but it just shows several screens of text then loops. Nestopia complains about bad header info, or something. The first and last screens are:
 
-![Text Editor first screen]({filename}images/Text-Editor_01.png)
+![Text Editor first screen]({filename}../images/Text-Editor_01.png)
 
-![Text Editor last screen]({filename}images/Text-Editor_02.png)
+![Text Editor last screen]({filename}../images/Text-Editor_02.png)
 
 And that is that.
 
