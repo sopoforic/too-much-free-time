@@ -19,5 +19,5 @@ As you look further back in software history, you can see different interface pa
 
 [It looks like][db] NWP shipped with certain models of the X68k. A positive bargain!
 
-[ew]: http://tmft.wordpress.com/2014/09/19/ew/
+[ew]: {filename}ew.md
 [db]: http://homepage1.nifty.com/dreamwave/x680x0/database/soft/word.htm
