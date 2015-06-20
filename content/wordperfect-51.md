@@ -40,5 +40,5 @@ I could spend pages discussing all the features of WordPerfect 5.1, but I really
 [t3100]: http://tmft.wordpress.com/2014/03/04/toshiba-t-3100-2/ "Toshiba T-3100"
 [ahoy]: http://tmft.wordpress.com/2013/06/05/ahoy-1-january-1984/ "Ahoy! #1 (January 1984)"
 [guide]: http://tmft.wordpress.com/2014/03/21/a-parents-guide-to-computer-games/ "A Parent’s Guide to Computer Games"
-[text editor]: http://tmft.wordpress.com/2006/09/24/first-impressions-text-editor/ "First Impressions: Text Editor"
+[text editor]: {filename}Impressions/text-editor-chudov.md "First Impressions: Text Editor"
 [ad]: {filename}images/2014-09-15_20-58-13.jpg
