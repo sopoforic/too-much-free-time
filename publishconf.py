@@ -19,3 +19,4 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+RELATIVE_URLS = False
