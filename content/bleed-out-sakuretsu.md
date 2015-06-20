@@ -7,15 +7,15 @@ Authors: Tracy Poff
 
 I don't believe I've written about any remotely popular games for at least two years... and I'm not about to change that. But I am writing about a good game, at least: *Bleed Out Sakuretsu*, a vertically scrolling shooter for the Sharp X68000, by Gold Cats Project.
 
-![]({filename}images/Bleed-Out-Sakuretsu-title.png)
+![Bleed Out Sakuretsu title screen]({filename}images/Bleed-Out-Sakuretsu-title.png)
 
 First: yes, the title screen says 'sakuretu'. But the common romanization of this game's title seems to be 'sakuretsu', and as goes TOSEC, so goes my nation.
 
-![]({filename}images/Bleed-Out-Sakuretsu-ingame.png)
+![In-game]({filename}images/Bleed-Out-Sakuretsu-ingame.png)
 
 *Bleed Out Sakuretsu* has a powerup system reminiscent of *Gradius*. As you continue scoring points, you can purchase a shot upgrade, a barrier, or other, even more powerful powerups. The opposition is a variety of ships, small shots, and guided missiles.
 
-![]({filename}images/Bleed-Out-Sakuretsu-boss.png)
+![Boss fight]({filename}images/Bleed-Out-Sakuretsu-boss.png)
 
 The boss sprays out bullets danmaku-style, and periodically fires a pair of front-facing lasers. You've got to deal with this while avoiding guided missiles, and since you are destroyed in one shot (unless you buy a barrier), this, like the rest of the level, provides a good challenge.
 
