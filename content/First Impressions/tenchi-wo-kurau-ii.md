@@ -1,5 +1,5 @@
 Title: First Impressions: Tenchi wo Kurau II - Shokatsu Koumei Den
-Date: 2015-06-20 14:03:08
+Date: 2006-09-24 14:33
 Modified: 2015-06-20 14:03:08
 Tags: good, NES, rpg, ancient China, Capcom, fan translation
 Authors: Tracy Poff

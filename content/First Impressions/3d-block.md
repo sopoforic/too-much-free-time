@@ -1,5 +1,5 @@
 Title: First Impressions: 3D Block
-Date: 2015-06-20 14:11:42
+Date: 2006-09-25 00:53
 Modified: 2015-06-20 14:11:42
 Tags: bad, falling blocks, NES, not on mobygames, old 3d games
 Authors: Tracy Poff
