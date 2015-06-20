@@ -1,7 +1,6 @@
 Title: First Impressions: Flying Warriors
 Date: 2006-09-24 12:26
 Modified: 2015-06-20 11:32:35
-Category: First Impressions
 Tags: 1990, bad, beat 'em up, NES, Culture Brain Inc.
 Slug: flying-warriors
 Authors: Tracy Poff
