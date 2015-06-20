@@ -9,7 +9,7 @@ In the early eighties, the sudden popularity (and, indeed, the recent *existenc
 
 Among the many disk mags was Scholastic's *Microzine* for Apple II. Featuring (as you might expect) primarily educational content, *Microzine* began publication in 1983,[^micropub] continuing for about a decade. It also inspired a spin-off series, *Microzine Jr.*, which was launched in 1988. Each issue of *Microzine* included four programs, one of which was a game.
 
-![History Mystery title scree]({filename}images/Microzine18.Sid_000000004.png)
+![History Mystery title screen]({filename}images/Microzine18.Sid_000000004.png)
 
 Which all brings me to the subject of this article: *History Mystery* by David A. Bowman and [Mark A. Malamud][mark], which was included in *Microzine* #18 in November 1986. According to the '[Letter from the Editor][letter]' in that issue:
 
