@@ -3,7 +3,6 @@ Date: 2015-03-12 21:18:15
 Modified: 2015-06-19 13:47:29
 Category: Game Review
 Tags: history, David A. Bowman, Mark A. Malamud, Microzine, new game plus, not on mobygames, Scholastic, selectable gender, educational, 1986, adventure, Apple II, good
-Slug: history-mystery
 Authors: Tracy Poff
 
 In the early eighties, the sudden popularity (and, indeed, the recent *existence*) of home computers gave rise to a new kind of publication: the disk magazine. These periodicals were published not on paper but on computer disks (and sometimes cassettes), and although the content varied, they generally featured computer programs (including games) in addition to, or even in place of, articles. The most famous of these are perhaps *[Softdisk][wpsoftdisk]* for the Apple II (launched in 1981) and *[Loadstar][wploadstar]* for the Commodore 64 (launched in 1984). The medium flourished[^diskmags] alongside more traditional magazines which might offer (inconvenient!) type-in programs. There was a price to be paid for this convenience: a single 'issue' of *Softdisk* cost about the same as an annual subscription to a paper magazine.

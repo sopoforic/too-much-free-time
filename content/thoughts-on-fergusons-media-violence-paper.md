@@ -3,7 +3,6 @@ Date: 2014-11-09 21:26:54
 Modified: 2015-06-19 16:29
 Category: Commentary
 Tags: academic, Christopher J. Ferguson, violence
-Slug: thoughts-on-fergusons-media-violence-paper
 Authors: Tracy Poff
 
 My attention was directed to [a paper by Christopher J. Ferguson][ferguson], to be published in the *Journal of Communication*, which argues that the common belief that there is a positive correlation between media violence and societal violence is false. The abstract:

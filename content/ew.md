@@ -3,7 +3,6 @@ Date: 2014-09-19 09:39:53
 Modified: 2015-06-19 19:24:25
 Category: Application
 Tags: 1988, word processor, X68000
-Slug: ew
 Authors: Tracy Poff
 
 Now that I've looked at the two major players on PC, let's take a look at some word processors for other platforms, beginning with the Sharp X68000.

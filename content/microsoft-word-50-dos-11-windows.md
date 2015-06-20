@@ -3,7 +3,6 @@ Date: 2014-09-19 03:48:58
 Modified: 2015-06-19 19:29:22
 Category: Application
 Tags: 1989, 1990, DOS, Windows, word processor
-Slug: microsoft-word-50-dos-11-windows
 Authors: Tracy Poff
 
 Like the last post, this one is a double feature. Sadly, unlike WordPerfect 5.1, which was released for both DOS and Windows with the same version number, MS Word used different numbers for is DOS and Windows version. So I've arbitrarily picked a DOS and Windows version each released at around the same time as WordPerfect 5.1 to look at.

@@ -3,7 +3,6 @@ Date: 2014-09-20 20:55:06
 Modified: 2015-06-19 16:59:00
 Category: Application
 Tags: 1990, X68000, word processor, interface
-Slug: nihongo-word-processor-v110
 Authors: Tracy Poff
 
 The second X68k word processor I'll look at is the "SHARP X68000 日本語ワードプロセッサ Ver 1.10", produced circa 1990 by Sharp itself. It is credited with programming by H. Nakamoto and management by H. Tanaka.

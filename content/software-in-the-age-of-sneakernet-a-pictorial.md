@@ -2,7 +2,6 @@ Title: Software in the Age of Sneakernet: A Pictorial
 Date: 2014-10-09 16:21:40
 Modified: 2015-06-19 16:48:15
 Category: Commentary
-Slug: software-in-the-age-of-sneakernet-a-pictorial
 Authors: Tracy Poff
 
 I've spent the last few weeks fighting with a screen recorder to get a good demonstration of a hypertext word processor. A power outage caused me to lose my carefully prepared sample document, so while I recover from the pain of loss, let's take a look at something different: packaging.

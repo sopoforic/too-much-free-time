@@ -3,7 +3,6 @@ Date: 2014-10-19 04:19:05
 Modified: 2015-06-19 16:32:51
 Category: Game Review
 Tags: female protagonist, ifcomp 2014, 2014, freeware, interactive fiction, platform independent, Giannis G. Georgiou
-Slug: one-night-stand
 Authors: Tracy Poff
 
 The third game I've played from the 2014 ifcomp is *One Night Stand* by Giannis G. Georgiou. You play Sandy, a woman who is trying to discover the name of the man she just spent the night with.

@@ -3,7 +3,6 @@ Date: 2014-10-17 15:55:48
 Modified: 2015-06-19 16:43:27
 Category: Game Review
 Tags: freeware, 2014, interactive fiction, platform independent, ifcomp 2014, Mike Gerwat, World War 1
-Slug: hill-160
 Authors: Tracy Poff
 
 A new year brings a new ifcomp. The first game, this year, is *Hill 160* by Mike Gerwat, billed as "A World War I Adventure in Terror". This appears to be Gerwat's first comp entry, though he has released another game, *Genesis Quest*, which is available [on the ifarchive][genesis].

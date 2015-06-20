@@ -3,7 +3,6 @@ Date: 2014-10-17 19:58:15
 Modified: 2015-06-19 16:38:06
 Category: Game Review
 Tags: freeware, interactive fiction, platform independent, Harry Giles, ifcomp 2014, mental health, storytelling, 2014
-Slug: raik
 Authors: Tracy Poff
 
 The second game I'm looking at this year is *Raik* by Harry Giles, which is written with Twine. According to the blurb, it is "A scots fantasia about anxiety. Battle kelpies, watch TV, avoid your emails and find the magical Staff of the Salmon." Sounds amusing!

@@ -3,7 +3,6 @@ Date: 2015-04-05 03:49:42
 Modified: 2015-06-19 12:53:04
 Category: Game Review
 Tags: doujin shooter, Gold Cats Project, not on mobygames, vaporware, 1996, x68000, vertical scrolling shooter, good
-Slug: bleed-out-sakuretsu
 Authors: Tracy Poff
 
 I don't believe I've written about any remotely popular games for at least two years... and I'm not about to change that. But I am writing about a good game, at least: *Bleed Out Sakuretsu*, a vertically scrolling shooter for the Sharp X68000, by Gold Cats Project.

@@ -3,7 +3,6 @@ Date: 2014-09-16 01:51:08
 Modified: 2015-06-19 19:36:06
 Category: Application
 Tags: 1989, 1991, DOS, Windows 3.x, word processor
-Slug: wordperfect-51
 Authors: Tracy Poff
 
 Technically, this blog is meant to be about video games. But I've written about [hardware][t3100] and [magazines][ahoy] and [books][guide] and [whatever this is][text editor], so I figure anything fitting broadly under the retrocomputing banner is fair game.
