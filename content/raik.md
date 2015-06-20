@@ -1,7 +1,7 @@
 Title: IFComp 2014: Raik
 Date: 2014-10-17 19:58:15
 Modified: 2015-06-19 16:38:06
-Category: Game Review
+Category: Game
 Tags: freeware, interactive fiction, platform independent, Harry Giles, ifcomp 2014, mental health, storytelling, 2014
 Authors: Tracy Poff
 

@@ -1,7 +1,7 @@
 Title: Bleed Out Sakuretsu
 Date: 2015-04-05 03:49:42
 Modified: 2015-06-19 12:53:04
-Category: Game Review
+Category: Game
 Tags: doujin shooter, Gold Cats Project, not on mobygames, vaporware, 1996, x68000, vertical scrolling shooter, good
 Authors: Tracy Poff
 

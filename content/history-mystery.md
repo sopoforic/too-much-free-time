@@ -1,7 +1,7 @@
 Title: History Mystery
 Date: 2015-03-12 21:18:15
 Modified: 2015-06-19 13:47:29
-Category: Game Review
+Category: Game
 Tags: history, David A. Bowman, Mark A. Malamud, Microzine, new game plus, not on mobygames, Scholastic, selectable gender, educational, 1986, adventure, Apple II, good
 Authors: Tracy Poff
 

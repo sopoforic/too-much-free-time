@@ -1,7 +1,7 @@
 Title: IFComp 2014: One Night Stand
 Date: 2014-10-19 04:19:05
 Modified: 2015-06-19 16:32:51
-Category: Game Review
+Category: Game
 Tags: female protagonist, ifcomp 2014, 2014, freeware, interactive fiction, platform independent, Giannis G. Georgiou
 Authors: Tracy Poff
 

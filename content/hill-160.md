@@ -1,7 +1,7 @@
 Title: IFComp 2014: Hill 160
 Date: 2014-10-17 15:55:48
 Modified: 2015-06-19 16:43:27
-Category: Game Review
+Category: Game
 Tags: freeware, 2014, interactive fiction, platform independent, ifcomp 2014, Mike Gerwat, World War 1
 Authors: Tracy Poff
 
