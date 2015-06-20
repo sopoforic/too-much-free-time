@@ -10,6 +10,8 @@ THEME= 'foundation-default-colours'
 PATH = 'content'
 STATIC_PATHS = ['images']
 
+OUTPUT_PATH = 'output'
+
 MD_EXTENSIONS = ['codehilite','extra',]
 
 TIMEZONE = 'America/New_York'
@@ -32,6 +34,8 @@ SOCIAL = (('@TracyPoff', 'https://twitter.com/TracyPoff'),
          )
 
 DEFAULT_PAGINATION = 10
+
+DELETE_OUTPUT_DIRECTORY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
