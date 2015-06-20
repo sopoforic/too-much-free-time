@@ -2,7 +2,6 @@ Title: First Impressions: 1991 Du Ma Racing
 Date: 2006-09-24 10:05
 Modified: 2015-06-20 11:12:10
 Tags: 1991, bad, gambling, horse racing, NES, Idea-Tek Inc., Super Mega
-Slug: 1991-du-ma-racing
 Authors: Tracy Poff
 
 It's horse racing. The title screen greets us, for some reason, with some weird balloon horse things bouncing around:

@@ -2,7 +2,6 @@ Title: First Impressions: The 3-D Battles of World Runner
 Date: 2006-09-24 11:17
 Modified: 2015-06-20 11:23:05
 Tags: 1987, decent, NES, anaglyph 3d, Acclaim, Disk Original Group, Square Co. Ltd., old 3d games
-Slug: 3d-battles-of-world-runner
 Authors: Tracy Poff
 
 Run around, avoiding the enemies, until you get to the boss. Then button mash.

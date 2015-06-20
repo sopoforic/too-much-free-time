@@ -2,7 +2,6 @@ Title: First Impressions: 1943 - The Battle of Midway
 Date: 2006-09-24 08:47
 Modified: 2015-06-19 21:28:02
 Tags: 1988, good, NES, vertical scrolling shooter, Capcom, World War 2
-Slug: 1943-the-battle-of-midway
 Authors: Tracy Poff
 
 An excellent conversion of Capcom's vertical scrolling shooter:

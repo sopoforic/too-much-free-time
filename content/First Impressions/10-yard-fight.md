@@ -2,7 +2,6 @@ Title: First Impressions: 10-Yard Fight
 Date: 2006-09-24 08:46
 Modified: 2015-06-19 20:06:29
 Tags: Irem Corp., 1985, American football, NES
-Slug: 10-yard-fight
 Authors: Tracy Poff
 
 It's an American football game. I don't know the rules of the game, but, honestly, I doubt that matters for this game.

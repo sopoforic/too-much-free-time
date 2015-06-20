@@ -2,7 +2,6 @@ Title: First Impressions: Text Editor
 Date: 2006-09-24 13:48
 Modified: 2015-06-20 11:58:27
 Tags: unplayable, nes, 1996, A. Chudov
-Slug: text-editor-chudov
 Authors: Tracy Poff
 
 Original title: ""РЕДАКТОР ТЕКСТОВ"". In Latin characters: "REDAKTOR TEKSTOV".

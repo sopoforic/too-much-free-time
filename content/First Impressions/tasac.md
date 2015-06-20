@@ -2,7 +2,6 @@ Title: First Impressions: Tasac
 Date: 2006-09-24 14:02
 Modified: 2015-06-20 12:17:36
 Tags: bad, NES, vertical scrolling shooter, futuristic, not on mobygames, Sachen, Thin Chen, 1992
-Slug: first-impressions-tasac
 Authors: Tracy Poff
 
 Tasac is a vertical scrolling shooter by Sachen, and it sucks.
