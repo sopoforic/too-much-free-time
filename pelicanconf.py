@@ -8,7 +8,7 @@ SITENAME = u'Too Much Free Time'
 THEME= 'foundation-default-colours'
 
 PATH = 'content'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'Impressions/images']
 
 OUTPUT_PATH = 'output'
 
