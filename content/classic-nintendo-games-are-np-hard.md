@@ -49,11 +49,11 @@ The 3-satisfiability problem is to determine if, given a boolean formula of a ce
 
 (Don't be alarmed by the duplication. The reason for writing that way will be apparent later.)
 
-The *3* in 3-SAT means that each sub-expression (in parentheses) can have at most 3 parts. In this case, each has only two parts.
+The *3* in 3-SAT means that each clause (the parts in parentheses) can have at most 3 components. In this case, each has only two *distinct* components--one is repeated.
 
-All three sub-expressions must be true for the formula to be true, and a sub-expression is true if *any* of its components (which are separated by pipes) is true. In logic-speak, it's a conjunction of several disjunctions.
+All three clauses must be true for the formula to be true, and a clause is true if *any* of its components (which are separated by pipes) is true. In logic-speak, it's a conjunction of several disjunctions.
 
-It's pretty easy to see that this expression is true if y is true (satisfying the first part) and x is false (satisfying the other two). But, what if there were fifty or a hundred or a billion sub-expressions? That would be harder to tell.
+It's pretty easy to see that this expression is true if y is true (satisfying the first part) and x is false (satisfying the other two). But what if there were fifty or a hundred or a billion sub-expressions? That would be harder to tell.
 
 ## Requirements for 3-SAT
 
@@ -93,7 +93,7 @@ This is the most interesting (and important) gadget in *Super Mario Bros.* Take 
 
 ![Clause and Check gadget]({filename}images/aloupis2012-mario1-clause-gadget.png)
 
-After making a choice and dropping from the Variable gadget, Mario will be led to (a series of) Clause gadgets. He enters one of the small open areas from the bottom--each one of them will have a path from a Variable gadget that leads to it.
+After making a choice and dropping from the Variable gadget, Mario will be led to a series of Clause gadgets. He enters one of the small open areas from the bottom--each one of them will have a path from a Variable gadget that leads to it.
 
 Each block contains a star, which will be trapped in the 'fence' when Mario hits the block. Later, Mario will come through the top part (that's the Check part of the gadget) and collect the star so that he can run through the Firebars. If Mario gets to the Check gadget without having hit the star block (thus satisfying the disjunction), he can't proceed--the Firebars will kill him.
 
