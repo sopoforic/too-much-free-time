@@ -1,5 +1,5 @@
 Title: First Impressions: Brickout!
-Date: 2015-06-25 03:28:12
+Date: 2006-09-26 23:58
 Modified: 2015-06-25 03:28:12
 Tags: 1981, bad, breakout, Intellivision, Mattel, not on mobygames
 Authors: Tracy Poff

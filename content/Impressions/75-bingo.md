@@ -1,5 +1,5 @@
 Title: First Impressions: 75 Bingo
-Date: 2015-06-25 08:12:00
+Date: 2006-09-28 23:18
 Modified: 2015-06-25 08:12:00
 Tags: 1990, bad, NES, slots, gambling, Sachen, not on mobygames
 Authors: Tracy Poff
