@@ -8,9 +8,12 @@ SITENAME = u'Too Much Free Time'
 THEME= 'foundation-default-colours'
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'Impressions/images', 'pages/images']
+STATIC_PATHS = ['images', 'Impressions/images', 'pages/images', 'Book/images']
 
 OUTPUT_PATH = 'output'
+
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
 MD_EXTENSIONS = ['codehilite','extra',]
 
