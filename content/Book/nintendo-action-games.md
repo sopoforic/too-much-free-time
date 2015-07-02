@@ -1,10 +1,8 @@
 Title: Nintendo Action Games
 Date: 2015-07-01 22:44
 Modified: 2015-07-01 22:44
-Category: Book
 Tags: 1991, Christopher Lampton
 Authors: Tracy Poff
-Status: draft
 
 *Nintendo Action Games* by Christopher Lampton reviews twelve action games for the NES.
 
